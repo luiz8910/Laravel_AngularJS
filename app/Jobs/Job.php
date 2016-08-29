@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Jobs;
+namespace Laravel_AngularJS\Jobs;
 
 use Illuminate\Bus\Queueable;
 

@@ -28,17 +28,17 @@ $app = new Illuminate\Foundation\Application(
 
 $app->singleton(
     Illuminate\Contracts\Http\Kernel::class,
-    Excel\Http\Kernel::class
+    Laravel_AngularJS\Http\Kernel::class
 );
 
 $app->singleton(
     Illuminate\Contracts\Console\Kernel::class,
-    Excel\Console\Kernel::class
+    Laravel_AngularJS\Console\Kernel::class
 );
 
 $app->singleton(
     Illuminate\Contracts\Debug\ExceptionHandler::class,
-    Excel\Exceptions\Handler::class
+    Laravel_AngularJS\Exceptions\Handler::class
 );
 
 /*

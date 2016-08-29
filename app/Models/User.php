@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Models;
+namespace Laravel_AngularJS\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Auth\Authenticatable;

@@ -1,0 +1,22 @@
+{
+  "name": "Laravel_AngularJS",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Luiz Fernando Sanches <luiz.sanches8910@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/luiz8910/Excel",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "1.4.1",
+    "angular-resource": "1.4.1",
+    "angular": "1.4.1"
+  }
+}

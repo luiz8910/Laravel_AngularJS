@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Providers;
+namespace Laravel_AngularJS\Providers;
 
 use Illuminate\Contracts\Events\Dispatcher as DispatcherContract;
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
@@ -13,8 +13,8 @@ class EventServiceProvider extends ServiceProvider
      * @var array
      */
     protected $listen = [
-        'Excel\Events\SomeEvent' => [
-            'Excel\Listeners\EventListener',
+        'Laravel_AngularJS\Events\SomeEvent' => [
+            'Laravel_AngularJS\Listeners\EventListener',
         ],
     ];
 

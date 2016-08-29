@@ -23,7 +23,7 @@
             "database"
         ],
         "psr-4": {
-            "Excel\\": "app/"
+            "Laravel_AngularJS\\": "app/"
         }
     },
     "autoload-dev": {

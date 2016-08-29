@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Console;
+namespace Laravel_AngularJS\Console;
 
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
@@ -13,7 +13,7 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-        \Excel\Console\Commands\Inspire::class,
+        \Laravel_AngularJS\Console\Commands\Inspire::class,
     ];
 
     /**

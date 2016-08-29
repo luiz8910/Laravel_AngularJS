@@ -1,12 +1,12 @@
 <?php
 
-namespace Excel\Repositories;
+namespace Laravel_AngularJS\Repositories;
 
 use Prettus\Repository\Contracts\RepositoryInterface;
 
 /**
  * Interface UserRepository
- * @package namespace Excel\Repositories;
+ * @package namespace Laravel_AngularJS\Repositories;
  */
 interface UserRepository extends RepositoryInterface
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Events;
+namespace Laravel_AngularJS\Events;
 
 abstract class Event
 {

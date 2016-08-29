@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Providers;
+namespace Laravel_AngularJS\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

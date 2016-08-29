@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Http\Middleware;
+namespace Laravel_AngularJS\Http\Middleware;
 
 use Closure;
 use Illuminate\Contracts\Auth\Guard;

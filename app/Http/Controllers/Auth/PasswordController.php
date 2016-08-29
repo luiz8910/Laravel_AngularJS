@@ -1,8 +1,8 @@
 <?php
 
-namespace Excel\Http\Controllers\Auth;
+namespace Laravel_AngularJS\Http\Controllers\Auth;
 
-use Excel\Http\Controllers\Controller;
+use Laravel_AngularJS\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
 
 class PasswordController extends Controller

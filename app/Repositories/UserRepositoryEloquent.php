@@ -1,16 +1,16 @@
 <?php
 
-namespace Excel\Repositories;
+namespace Laravel_AngularJS\Repositories;
 
 use Prettus\Repository\Eloquent\BaseRepository;
 use Prettus\Repository\Criteria\RequestCriteria;
-use Excel\Repositories\UserRepository;
-use Excel\Models\User;
-use Excel\Validators\UserValidator;
+use Laravel_AngularJS\Repositories\UserRepository;
+use Laravel_AngularJS\Models\User;
+use Laravel_AngularJS\Validators\UserValidator;
 
 /**
  * Class UserRepositoryEloquent
- * @package namespace Excel\Repositories;
+ * @package namespace Laravel_AngularJS\Repositories;
  */
 class UserRepositoryEloquent extends BaseRepository implements UserRepository
 {

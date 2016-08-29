@@ -146,10 +146,10 @@ return [
         /*
          * Application Service Providers...
          */
-        Excel\Providers\AppServiceProvider::class,
-        Excel\Providers\EventServiceProvider::class,
-        Excel\Providers\RouteServiceProvider::class,
-        Excel\Providers\RepositoryServiceProvider::class
+        Laravel_AngularJS\Providers\AppServiceProvider::class,
+        Laravel_AngularJS\Providers\EventServiceProvider::class,
+        Laravel_AngularJS\Providers\RouteServiceProvider::class,
+        Laravel_AngularJS\Providers\RepositoryServiceProvider::class
 
     ],
 

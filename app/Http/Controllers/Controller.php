@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Http\Controllers;
+namespace Laravel_AngularJS\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;

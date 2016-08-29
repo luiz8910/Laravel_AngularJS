@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Http\Requests;
+namespace Laravel_AngularJS\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

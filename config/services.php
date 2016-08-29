@@ -30,7 +30,7 @@ return [
     ],
 
     'stripe' => [
-        'model'  => Excel\User::class,
+        'model'  => Laravel_AngularJS\User::class,
         'key' => '',
         'secret' => '',
     ],

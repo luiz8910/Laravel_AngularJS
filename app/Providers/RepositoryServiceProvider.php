@@ -1,6 +1,6 @@
 <?php
 
-namespace Excel\Providers;
+namespace Laravel_AngularJS\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -23,8 +23,8 @@ class RepositoryServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->bind('Excel\Repositories\UserRepository',
-            'Excel\Repositories\UserRepositoryEloquent');
+        $this->app->bind('Laravel_AngularJS\Repositories\UserRepository',
+            'Laravel_AngularJS\Repositories\UserRepositoryEloquent');
     }
 }
 

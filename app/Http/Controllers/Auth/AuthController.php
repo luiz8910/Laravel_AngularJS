@@ -1,10 +1,10 @@
 <?php
 
-namespace Excel\Http\Controllers\Auth;
+namespace Laravel_AngularJS\Http\Controllers\Auth;
 
-use Excel\Models\User;
+use Laravel_AngularJS\Models\User;
 use Validator;
-use Excel\Http\Controllers\Controller;
+use Laravel_AngularJS\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
 class AuthController extends Controller
